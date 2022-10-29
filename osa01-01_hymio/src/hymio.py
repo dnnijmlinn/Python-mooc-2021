@@ -1,0 +1,2 @@
+# Kirjoita ratkaisu tähän
+print(":-)")
